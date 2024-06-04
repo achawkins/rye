@@ -73,7 +73,7 @@ Added packagename @ file:///path/to/packagename as regular dependency
 
 * `--pre`: Include pre-releases when finding a package version
 
-* `--pin <PIN>`: Overrides the pin operator [possible values: `equal`, `tilde-equal``, `greater-than-equal``]
+* `--pin <PIN>`: Overrides the pin operator [possible values: `equal`, `tilde-equal`, `greater-than-equal`]
 
 * `--sync`: Runs `sync` automatically even if auto-sync is disabled.
 
